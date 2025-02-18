@@ -20,6 +20,7 @@ Desenvolver uma solução end-to-end que:
 3. **Treinamento de Modelo**:
 - Escolha o framework que achar mais adequado (TensorFlow, PyTorch, etc.).
 - Utilize técnicas como transfer learning ou modelos pré-treinados se considerar vantajoso.
+- Avalie o modelo em um grupo de testes
 - Defina e justifique as métricas que serão utilizadas (ex.: precisão, recall, tempo de inferência).
 
 4. **API**:
@@ -39,7 +40,7 @@ Se você chegou até aqui, é porque achamos que você tem um fit com nosso time
 
 ## Apresentação e Critérios de Avaliação
 
-Você terá 30 minutos para apresentar sua solução.
+Você terá uma agenda com o gestor para apresentar sua solução.
 A avaliação será em função de: 
 - Raciocínio e solução de problemas: Como você estruturou a solução e justificou suas escolhas.
 - Qualidade da documentação: Clareza e organização do README e demais explicações.
