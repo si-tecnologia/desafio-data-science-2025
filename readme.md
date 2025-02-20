@@ -4,9 +4,11 @@ Bem-vindo e parabéns por chegar até esta etapa do processo seletivo!
 
 Este desafio foi desenvolvido para avaliar suas habilidades como Cientista de Dados. Nossa ideia é que você construa uma solução completa para detecção de fumaça/incêndio utilizando imagens reais. Lembre-se de que o principal objetivo não é reinventar a roda, mas mostrar seu raciocínio, suas escolhas e como você resolve problemas utilizando técnicas e recursos existentes.
 
+![Exemplos de detecção de fumaça](./smoke_examples.jpg)
+
 ## Objetivo
 Desenvolver uma solução end-to-end que:
-- Busque / construa um dataset imagens de fumaça (preferencialmente de câmeras instaladas em torres);
+- Busque ou construa um dataset imagens de fumaça (preferencialmente de câmeras instaladas em torres);
 - Realize o pré-processamento dos dados;
 - Treine um modelo de detecção de objetos para identificar fumaça/incêndio;
 - Disponibilize uma API que receba imagens e retorne os resultados do modelo (bounding boxes com scores).
